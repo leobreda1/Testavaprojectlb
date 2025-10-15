@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "leobreda1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238340944?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "leobreda1",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-15T20:32:27.148Z",
-    "updated_at": "2025-10-15T20:32:27.148Z"
-  }
+    "updated_at": "2025-10-15T20:32:27.148Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4c1c65f7-fc4b-4a73-948e-e9fdbf0eebfc": {
+      "content": [],
+      "created_at": "2025-10-15T20:32:27.168Z",
+      "created_by": "leobreda1",
+      "title": "Testing AVAnnotate",
+      "updated_at": "2025-10-15T20:32:27.168Z",
+      "updated_by": "leobreda1",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4c1c65f7-fc4b-4a73-948e-e9fdbf0eebfc"
+  ]
 }
